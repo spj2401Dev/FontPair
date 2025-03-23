@@ -10,3 +10,6 @@ No guessing. Just vibes.
 → Bonus: Keyboard shortcuts 👀
 
 Font-nerds, you’re welcome
+
+
+![GmnX4TMa8AAzqgt](https://github.com/user-attachments/assets/f54288e6-8314-4409-ba7e-acd8a905da4e)
