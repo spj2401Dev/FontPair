@@ -1,4 +1,9 @@
 # FontPair
+(But with working deployment)
+
+Visit on: https://spj2401dev.github.io/FontPair/
+
+---
 
 Picking fonts should be illegal with how hard it is.
 So I made a tool that gives you clean, cool, random font combos with one click.
